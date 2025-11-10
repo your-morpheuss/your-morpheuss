@@ -30,7 +30,7 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Shehryar-dev
+          github_user_name: your-morpheuss
           outputs:
             dist/github-snake.svg
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
