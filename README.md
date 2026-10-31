@@ -1,27 +1,6 @@
 ![logo](https://github.com/your-morpheuss/Your-Morpheus/blob/main/n4.png)
-## 💫 About Me:
 
-👋 Hi, I’m **Shehryar Saleem** [@your-morpheuss]  
-🎓 5th Semester Software Engineering Student at **Aptech Institute, Karachi**  
-🧠 Self-taught developer with a passion for **learning, building, and problem-solving**  
 
-🚀 Currently focused on:  
-- Advancing in **Flutter & Dart** with daily learning of new concepts and monthly project development  
-- Learning and practicing **MERN Stack** (MongoDB ✅ 60% → next: Node.js + React)  
-- Strengthening **English communication** with daily speaking practice  
-- Enhancing **problem-solving & logical thinking** through programming challenges
-
-🤝 Open to:  
-- **Flutter job opportunities**  
-- **Collaborating** on real-world or open-source projects  
-- **Freelance** or internship roles in web/mobile development  
-
-📫 Let's connect:  
-- **Phone/WhatsApp**: +92 312 023 5172  
-- **Portfolio**: [shehriyar-portfolio-v2.netlify.app](https://shehriyar-portfolio-v2.netlify.app)  
-- **LinkedIn**: [linkedin.com/in/shehryarkhandiv](https://www.linkedin.com/in/shehryarkhandiv)
-
-⚡ Fun Fact: I love pushing my limits by exploring new tech and building unique apps that challenge my thinking!
 
 
 ## 🌐 Socials:
